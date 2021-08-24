@@ -8,7 +8,7 @@ There are 4 tasks below, in your cloned repo, try to complete them one by one, d
 
 Once you've done as much as you can, zip up the whole folder and send it via email to pamela@kamiapp.com
 
-You have one week to do as much as you can, it's due by Tuesday night 11:59pm 30th August 2021.
+You have one week to do as much as you can, it's due by Tuesday night 11:59pm 31th August 2021.
 
 DO NOT ask your friends to help you or post this online, you will be given a live test for the second round interview so there is no point.
 Any other questions you have regarding the test tasks or submission method please feel free to email pamela@kamiapp.com as well.
