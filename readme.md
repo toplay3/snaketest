@@ -15,7 +15,7 @@ TASKS:
 
 1. when the snake intercepts itself the game doesn't end, fix this. Note: the "restart game" button doesn't fully work at this point so to test just refresh the page.
 
-2. There is a bug when you click the "restart game" button while the first game is still in progress, fix this, end the previous game when ever the user clicks "restart game". There is currently a memory leak whenever the game is restarted, think through if everything is actually stopped or not when doing this fix.
+2. There is a bug when you click the "restart game" button while the first game is still in progress, fix this, end the previous game when ever the user clicks "restart game". There is currently a memory leak whenever the game is restarted, think through if everything is actually stopped or not when doing this fix. NOTE: do not restart the game by refreshing the page
 
 3. the game speed variable doesn't work, fix this, the speed the snake moves should increase and decrease based on the numerical value the user inputs into the Gamespeed number box. The scale of this number and it's impact on the speed is up to you, as long as it does change the speed.
 
